@@ -44,3 +44,9 @@ font-family: Georgia;
 	color: gainsboro;
 	font-family: Georgia;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
